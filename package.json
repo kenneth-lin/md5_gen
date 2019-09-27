@@ -1,0 +1,11 @@
+{
+  "name": "md5_tool",
+  "version": "1.0.0",
+  "description": "This is use to check md5 file and output.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kenneth",
+  "license": "MIT"
+}
